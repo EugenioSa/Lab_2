@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="next">Siguiente</string>
+    <string name="txt1">Primer actividad</string>
+    <string name="enterText">Nombre</string>
+    <string name="back">Volver</string>
+    <string name="txt2">Segunda actividad</string>
+    <string name="receiveText">Nombre</string>
+</resources>
